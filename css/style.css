@@ -2,8 +2,18 @@
 body {
   font-family: "Lato", sans-serif;
 }
+.panda-search-group {
+  position: relative;
+}
 .panda-search-bar {
   width: 350px;
+}
+.panda-search-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 6px;
+  right: 10px;
 }
 .panda-header-bg {
   background-color: #feeae9;
