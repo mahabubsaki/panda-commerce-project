@@ -1,0 +1,61 @@
+/* font-family: 'Poppins', sans-serif; */
+body {
+  font-family: "Lato", sans-serif;
+}
+.panda-search-bar {
+  width: 350px;
+}
+.panda-header-bg {
+  background-color: #feeae9;
+}
+.panda-header-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.panda-price {
+  color: #ff136f;
+  font-weight: bold;
+}
+.panda-btn {
+  background-color: #ff136f;
+  box-sizing: border-box;
+}
+.panda-btn-text {
+  position: relative;
+  top: 8px;
+}
+.panda-catagory-1 {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+.panda-catagory-2 {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.panda-catagory-3 {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+.panda-product-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.panda-product-price {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 150%;
+}
+.panda-main-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.panda-catagory-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+.panda-contact {
+  background-color: #feeae9;
+}
+.email-search-bar {
+  height: 50px;
+}
+.email-btn {
+  width: 100px;
+}
